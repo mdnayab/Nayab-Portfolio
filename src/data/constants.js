@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/mdnayab",
   resume:
-    "https://drive.google.com/file/d/1PExSduP3Y7u6IbpFI2Ibth7MsBCEeWeY/view?usp=sharing",
+    "https://drive.google.com/file/d/16cfn7n_RKmQBLvzirupPWKmtllWMaQBd/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/md-nayab-karim-922391250",
   twitter: "https://x.com/md_nyb",
   insta: "https://www.instagram.com/md_nayaabb/profilecard/?igsh=NTJsYXZvOGszOTA3",
@@ -199,7 +199,7 @@ export const projects = [
     tags: ["Next Js", "Cloudinary AI", "Daisy UI", "Next-Auth", "Clerk", "Prisma", "NeonDB", "TypeScript", "Tailwind CSS",],
     category: "web app",
     github: "https://github.com/mdnayab/cloudinary-ai-saas.git",
-    webapp: "#",
+    webapp: "https://cloudinary-ai-saas.netlify.app/",
     // member: [
     //   {
     //     name: "Md Nayab Karim",
