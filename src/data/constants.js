@@ -111,7 +111,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://th.bing.com/th/id/OIP.ev0hMHHlKjpQ19nJ23TSmwHaGq?rs=1&pid=ImgDetMain",
       },
     ],
   },
@@ -160,7 +160,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://th.bing.com/th/id/OIP.0tKoKVAVmEedrtinejIVeAAAAA?w=250&h=256&rs=1&pid=ImgDetMain",
     school: "Rosemary Land School, Bihar",
     date: "March 2008 - March 2021",
     grade: "78%",
